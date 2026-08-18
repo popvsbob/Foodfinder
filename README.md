@@ -259,6 +259,4 @@ curl -N http://localhost:8100/api/stream/test
 
 ---
 
-## License
 
-MIT
